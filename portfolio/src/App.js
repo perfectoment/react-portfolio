@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import Wrapper from "./components/Wrapper"
 import Header from "./components/Header"
-import ContactCard from './components/ContactCard';
+import AboutCard from './components/AboutCard';
 import Footer from './components/Footer';
 
 
@@ -14,7 +14,7 @@ render() {
   return (
     <Wrapper>
       <Header/>
-      <ContactCard/>
+      <AboutCard/>
       <Footer/>
     </Wrapper>
   );
