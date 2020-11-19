@@ -1,6 +1,6 @@
 # Portfolio with Express
 
-I created a website using HTML, CSS and utilzing my knowledge of Node.js, Express.js and backend server setup. I created a navigation bar with working links to the other pages. I created a card displaying my image and information about myself. I also created ways to display my portfolio and a form in which potential employers can contact me. 
+I created a website using HTML, CSS and utilzing my knowledge of React.js I created a navigation bar with working links to the other pages. I created a card displaying my image and information about myself. I also created ways to dynamically generate my portfolio and create a form in which potential employers can contact me. 
 
 ### Screenshots
 
