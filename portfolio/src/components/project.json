@@ -2,42 +2,42 @@
     {
       "id": 1,
       "name": "Gym Heroes",
-      "image": "../../public/img/GYMHEROES.PNG",
+      "image": "/img/GYMHEROES.PNG",
       "github": "https://github.com/perfectoment/Project-01",
       "link":"https://perfectoment.github.io/Project-01/"
     },
     {
         "id": 2,
         "name": "Employment Buddy",
-        "image": "/../public/img/buddypic.PNG",
+        "image": "/img/buddypic.PNG",
         "github": "https://github.com/perfectoment/employment-buddybcs",
         "link":"https://murmuring-spire-69181.herokuapp.com/"
       },
       {
         "id": 3,
         "name": "Burgertime",
-        "image": "public/img/burgertime.PNG",
+        "image": "/img/burgertime.PNG",
         "github": "https://github.com/perfectoment/burger",
         "link":"https://quiet-temple-96732.herokuapp.com/"
       },
       {
         "id": 4,
         "name": "Work Day Scheduler",
-        "image": "public/img/wds.PNG",
+        "image": "/img/wds.PNG",
         "github": "https://github.com/perfectoment/work-day-scheduler",
         "link":"https://perfectoment.github.io/work-day-scheduler/"
       },
       {
         "id": 5,
         "name": "Employee Directory",
-        "image": "public/img/directory.PNG",
+        "image": "/img/directory.PNG",
         "github": "https://github.com/perfectoment/employee-directory",
         "link":"https://perfectoment.github.io/employee-directory/"
       },
       {
         "id": 6,
         "name": "Fitness Friend",
-        "image": "public/img/workoutpic.PNG",
+        "image": "/img/workoutpic.PNG",
         "github": "https://github.com/perfectoment/fitness-friend",
         "link":"https://safe-brook-81799.herokuapp.com/"
       }

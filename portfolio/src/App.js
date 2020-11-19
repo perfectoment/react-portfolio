@@ -5,11 +5,6 @@ import Home from "./components/pages/Home"
 import Contact from "./components/pages/Contact"
 
 
-
-
-
-
-
 class App extends Component{
 
 
