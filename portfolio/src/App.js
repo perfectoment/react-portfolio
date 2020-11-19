@@ -1,9 +1,12 @@
 import { Component } from 'react';
-import Wrapper from "./components/Wrapper"
-import Header from "./components/Header"
-import AboutCard from './components/AboutCard';
-import ContactForm from "./components/ContactForm"
-import Footer from './components/Footer';
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Portfolio from './components/pages/Portfolio';
+import Home from "./components/pages/Home"
+import Contact from "./components/pages/Contact"
+
+
+
+
 
 
 
@@ -13,11 +16,13 @@ class App extends Component{
 
 render() {
   return (
-    <Wrapper>
-      <Header/>
-      <ContactForm/>
-      <Footer/>
-    </Wrapper>
+    <Router>
+    <div>
+      <Route exact path="/" component={Home} />
+      <Route exact path="/portfolio" component={Portfolio} />
+      <Route path="/contact" component={Contact} />
+    </div>
+  </Router>
   );
 }
 }
