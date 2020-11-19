@@ -14,7 +14,7 @@ render() {
     <HashRouter basename="/">
     <div>
       <Route exact path="/" component={Home} />
-      <Route exact path="/portfolio" component={Portfolio} />
+      <Route path="/portfolio" component={Portfolio} />
       <Route path="/contact" component={Contact} />
     </div>
   </HashRouter>
